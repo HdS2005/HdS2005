@@ -4,20 +4,19 @@
 
 ### 📊 Aspiring Data Analyst
 
-Turning **raw data** into **meaningful insights** using Python, SQL, Excel & Power BI.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Python+%7C+SQL+%7C+Power+BI;Turning+Data+Into+Business+Insights;Open+to+Data+Analyst+Opportunities" />
 
-<p>
+<br>
+
 <a href="https://www.linkedin.com/in/harshdeep-singh07/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:harshdeepsingh4694@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Data+Visualization+Enthusiast;Always+Learning+Something+New"/>
+<img src="https://komarev.com/ghpvc/?username=HdS2005&style=for-the-badge&color=0A66C2"/>
 
 </div>
 
@@ -25,40 +24,36 @@ Turning **raw data** into **meaningful insights** using Python, SQL, Excel & Pow
 
 # 👨‍💻 About Me
 
-🎓 B.Tech in Computer Science
+🎓 **B.Tech in Computer Science**
 
-📊 Passionate about solving business problems using data.
+📊 Passionate about **Data Analytics**, **Business Intelligence** and **Data Visualization**
 
-🌱 Currently learning
+🚀 Currently Building
 
+- 📈 Customer Churn Analysis
+- 📊 Power BI Dashboards
+- 🗄 SQL Portfolio Projects
+
+🌱 Currently Learning
+
+- Python for Data Analysis
 - SQL
 - Power BI
 - Statistics
-- Python for Data Analysis
 
-🔭 Currently Building
-
-- 📊 Customer Churn Analysis
-- 📈 Power BI Dashboards
-- 🐍 Python Analytics Projects
-
-💼 Open to **Data Analyst Opportunities**
+💼 **Open to Data Analyst Opportunities**
 
 ---
 
-# 🚀 Tech Stack
+# 🛠 Tech Stack
 
-### Languages
+<p align="center">
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
 
 </p>
 
-### Data Analytics
-
-<p>
+<p align="center">
 
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
@@ -82,10 +77,10 @@ Turning **raw data** into **meaningful insights** using Python, SQL, Excel & Pow
 
 | Project | Description |
 |---------|-------------|
-| 📊 Customer Churn Analysis | EDA, Visualization & Business Insights |
+| 📊 Customer Churn Analysis | Python • EDA • Business Insights |
 | 📈 Power BI Dashboard | Interactive KPI Dashboard |
-| 🛒 SQL Retail Analysis | SQL Queries for Business Insights |
-| 📉 Excel Dashboard | Sales Dashboard & KPI Tracking |
+| 🗄 SQL Data Analysis | SQL Queries & Reporting |
+| 📉 Excel Dashboard | Sales KPI Dashboard |
 
 ---
 
@@ -99,6 +94,8 @@ Turning **raw data** into **meaningful insights** using Python, SQL, Excel & Pow
 
 </p>
 
+<br>
+
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HdS2005&theme=tokyo-night&hide_border=true"/>
@@ -109,8 +106,8 @@ Turning **raw data** into **meaningful insights** using Python, SQL, Excel & Pow
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### 💙 Thanks for visiting my profile!
 
-<img src="https://komarev.com/ghpvc/?username=HdS2005&style=for-the-badge&color=blue"/>
+*"Without data, you're just another person with an opinion."* — W. Edwards Deming
 
 </div>
