@@ -1,10 +1,10 @@
-<div align="center">
+ <div align="center">
 
 # Hi 👋 I'm Harshdeep Singh
 
-### 📊 Aspiring Data Analyst
+### 🔐 Aspiring Cybersecurity Engineer | Application Security
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Python+%7C+SQL+%7C+Power+BI;Turning+Data+Into+Business+Insights;Open+to+Data+Analyst+Opportunities" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Application+Security+%7C+Vulnerability+Analysis;Security+Automation+%7C+Code+Analysis;Building+Tools+for+Safer+Software" />
 
 <br>
 
@@ -24,24 +24,29 @@
 
 # 👨‍💻 About Me
 
-🎓 **B.Tech in Computer Science**
+🎓 **B.Tech in Computer Science Engineering — 2026 Graduate**
 
-📊 Passionate about **Data Analytics**, **Business Intelligence** and **Data Visualization**
+🔐 Focused on **Cybersecurity, Application Security, and Vulnerability Analysis**
 
-🚀 Currently Building
+🛡️ Interested in identifying security weaknesses, analyzing code, and developing practical security solutions.
 
-- 📈 Customer Churn Analysis
-- 📊 Power BI Dashboards
-- 🗄 SQL Portfolio Projects
+🚀 **Security Projects & Focus Areas**
 
-🌱 Currently Learning
+- 🔍 Vulnerability Detection & Analysis
+- 🧠 AI-Assisted Code Vulnerability & Remediation Analysis
+- ⚙️ Security Automation & Vulnerability Scanning
+- 🔒 Data Loss Prevention (DLP)
+- 🌐 Web Application Security & API Security
 
-- Python for Data Analysis
-- SQL
-- Power BI
-- Statistics
+🌱 **Currently Strengthening**
 
-💼 **Open to Data Analyst Opportunities**
+- Python for Security Automation
+- Web Application Security & OWASP Top 10
+- Vulnerability Assessment & Remediation
+- Secure Coding Practices
+- Application Security Fundamentals
+
+💼 **Open to Cybersecurity, Application Security & Security Engineering Opportunities**
 
 ---
 
@@ -49,39 +54,45 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,mysql,git,github,vscode,linux"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Application_Security-1F6FEB?style=for-the-badge&logo=owasp&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vulnerability_Analysis-8B5CF6?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/Security_Automation-0F766E?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+<img src="https://img.shields.io/badge/REST_API_Security-2563EB?style=for-the-badge"/>
 
 </p>
 
 ---
 
-# 📂 Featured Projects
+# 📂 Featured Security Projects
 
 | Project | Description |
 |---------|-------------|
-| 📊 Customer Churn Analysis | Python • EDA • Business Insights |
-| 📈 Power BI Dashboard | Interactive KPI Dashboard |
-| 🗄 SQL Data Analysis | SQL Queries & Reporting |
-| 📉 Excel Dashboard | Sales KPI Dashboard |
+| 🔍 AI-Assisted Code Vulnerability Analysis | Code analysis, vulnerability identification & remediation |
+| 🌐 Web Application Security Testing | Web security assessment and vulnerability detection |
+| ⚙️ Automated Vulnerability Scanner | Python-based security scanning and reporting |
+| 🔒 Data Loss Prevention (DLP) | Detecting and preventing sensitive data exposure |
 
+---
+
+# 🎯 Career Interests
+
+- Application Security Engineer
+- Cybersecurity Engineer
+- Product Security Engineer
+- Vulnerability Assessment Analyst
+- Security Automation Engineer
+- DevSecOps Engineer
 
 ---
 
@@ -89,6 +100,6 @@
 
 ### 💙 Thanks for visiting my profile!
 
-*"Without data, you're just another person with an opinion."* — W. Edwards Deming
+*"Security is not a product, but a process."*
 
 </div>
